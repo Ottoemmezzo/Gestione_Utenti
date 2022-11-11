@@ -1,0 +1,39 @@
+{
+  "elenco": [
+    {
+      "nome": "Sebastiano",
+      "cognome": "Lazzeri",
+      "id": 2
+    },
+    {
+      "nome": "Jennifer",
+      "cognome": "Lawrence",
+      "id": 6
+    },
+    {
+      "nome": "Michael",
+      "cognome": "Bakunin",
+      "id": 7
+    },
+    {
+      "nome": "Daniele",
+      "cognome": "Silvestri",
+      "id": 8
+    },
+    {
+      "nome": "Luca",
+      "cognome": "Pellegrini",
+      "id": 9
+    },
+    {
+      "nome": "Gennaro",
+      "cognome": "Esposito",
+      "id": 10
+    },
+    {
+      "nome": "Toto",
+      "cognome": "Schillaci",
+      "id": 11
+    }
+  ]
+}
